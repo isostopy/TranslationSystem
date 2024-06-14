@@ -5,11 +5,11 @@
 	"description": "Paquete con el que hacemos traducciones.",
 	"author": "isostopy",
 	"samples":
-	{
+	[
 		{
 			"displayName":"Translation Sample",
 			"description":"Muestra de como usar el paquete de traducciones.",
 			"path":"Sample"
 		}
-	}
+	]
 }
